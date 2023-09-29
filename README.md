@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yofi Kurniawan</h1>
 <h3 align="center">A passionate Software Engineer from Indonesia</h3>
 
+<img align="center" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 - 👨‍💻 All of my projects are available at <a href="https://www.linkedin.com/in/yofi-kurniawan" target="_blank"> Linkedln </a>
 
 - 💬 Ask me about *Web Development*

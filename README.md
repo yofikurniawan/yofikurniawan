@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, there</h1>
 I am Yofi Kurniawan working as Programmer. I am an Experienced Fullstack Developer with a demonstrated history of working in the information technology and services industry in goverment. Skilled in Laravel, Livewire, AlpineJs, RESTfull API’s and Javascript
 
+<h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 - 👨‍💻 All of my projects are available at <a href="https://www.linkedin.com/in/yofi-kurniawan" target="_blank"> Linkedln </a>
 
 - 💬 Ask me about *Web Development*
 
 - 📫 How to reach me *k.yofi.yk@gmail.com* or in <a href="https://www.instagram.com/yofik/"> Instagram </a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

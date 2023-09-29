@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, there</h1>
 I am Yofi Kurniawan working as Programmer. I am an Experienced Fullstack Developer with a demonstrated history of working in the information technology and services industry in goverment. Skilled in Laravel, Livewire, AlpineJs, RESTfull API’s and Javascript
 
-- 👨‍💻 All of my projects are available at <a href="www.linkedin.com/in/yofi-kurniawan"> Linkedln </a>
+- 👨‍💻 All of my projects are available at <a target="_blank" href="www.linkedin.com/in/yofi-kurniawan"> Linkedln </a>
 
 - 💬 Ask me about **Web Development**
 
